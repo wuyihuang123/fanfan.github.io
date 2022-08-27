@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
-baseurl: "" # the subpath of your site, e.g. /blog/
+title: 吴亦凡
+description: 吴亦凡 吴亦凡
+keywords: 吴亦凡
+author: 吴亦凡
+baseurl: "wuyifan.github.io" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
